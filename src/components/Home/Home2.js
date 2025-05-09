@@ -3,20 +3,11 @@ import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/pdp.png";
 import Tilt from "react-parallax-tilt";
 import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
   AiFillLinkedin,
-  AiOutlineGithub,
-  AiOutlineYoutube,
-  AiFillYoutube,
-  AiFillBehanceCircle,
-  AiOutlineMail,
   AiFillMail,
   AiFillPhone,
   AiFillSave,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -28,7 +19,7 @@ function Home2() {
             </h1>
         <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="Photo de profil" />
+              <img src={myImg} className="img-fluid" alt="" />
             </Tilt>
           </Col>
           <Col md={8} className="home-about-description">

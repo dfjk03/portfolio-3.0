@@ -538,6 +538,13 @@ button:focus {
   padding-top: 10px !important;
 }
 
+.project-heading-name {
+  color: white !important;
+  font-size: 1.5em !important;
+  font-weight: 500 !important;
+  padding-top: 10px !important;
+}
+
 /* --------- */
 /* About */
 /* --------- */
@@ -551,9 +558,10 @@ button:focus {
 }
 
 .tech-icons {
-  font-size: 4.5em !important;
+  font-size: 3em !important;
   margin: 15px !important;
-  padding: 10px !important;
+  padding: 5px !important;
+  padding-bottom: 10px !important;
   opacity: 0.93 !important;
   border: 1.7px solid rgba(137, 143, 230, 0.637) !important;
   vertical-align: middle !important;
@@ -568,6 +576,7 @@ button:focus {
 @media (max-width: 767px) {
   .tech-icons {
     margin: 10px !important;
+    font-size: 2.5em !important;
   }
 }
 
@@ -601,6 +610,7 @@ button:focus {
 @media (max-width: 767px) {
   .about-img {
     padding-top: 0 !important;
+    width: 50% !important;
   }
 }
 /* --------- */

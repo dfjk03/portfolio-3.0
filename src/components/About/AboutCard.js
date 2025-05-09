@@ -8,10 +8,11 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Je suis passionnée par le <span className="blue">marketing</span>, actuellement alternante <span className="blue"> responsable audiovisuel et communication </span> à <span className="blue">l'IUT de Paris</span>.
+            Je suis passionnée par le <span className="blue">marketing </span>et actuellement alternante <span className="blue"> responsable audiovisuel et communication </span> chez <span className="blue">Patrowl</span>
+            , startup dans le domaine de la cybersécurité.
             <br />
             Pour mon <span className="blue">master à Skema </span>
-            je cherche une alternance <span className="blue">en management</span>.
+            je cherche une alternance <span className="blue">3 semaines / 1 semaine en management</span> pour septembre 2025.
             <br />
             <br />
             J'ai des compétences en :

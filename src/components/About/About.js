@@ -2,10 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Github from "./Github";
-import Techstack from "./Techstack";
+import Hardskills from "./Hardskills";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/here.png";
-import Toolstack from "./Toolstack";
+import Here from "../../Assets/here.png";
+import Statistiques from "./Stats";
 
 function About() {
   return (
@@ -18,7 +18,7 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+            <img src={Here} alt="A propos" className="img-fluid" />
           </Col>
           <Col
             md={7}
@@ -38,12 +38,15 @@ function About() {
           Mes <strong className="blue">hard skills </strong>
         </h1>
 
-        <Techstack />
+        <Hardskills />
 
         <h1 className="project-heading">
-          <strong className="blue">Tools</strong> I use
+          Le résultat de mon travail <strong className="blue">en chiffres</strong>
         </h1>
-        <Toolstack />
+        <p style={{ color: "white" }}>
+          En 3 ans d'alternance pour Patrowl.
+          </p>
+        <Statistiques />
 
         <Github />
       </Container>
