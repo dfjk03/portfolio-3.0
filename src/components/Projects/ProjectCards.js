@@ -14,9 +14,6 @@ function ProjectCards(props) {
         </Card.Text>
         {"\n"}
         {"\n"}
-
-        {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
-
         {!props.isBlog && props.demoLink && (
           <Button
             variant="primary"

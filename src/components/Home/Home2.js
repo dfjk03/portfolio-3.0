@@ -55,14 +55,14 @@ function Home2() {
               <i>
                 <b className="blue"> 3 années d'alternance </b>
               </i>
-              en BUT Techniques de Commercialisation.
+              en BUT Techniques de Commercialisation à l'IUT de Paris.
               <br />
               <br />
               Puis, à force d'aller dans des festivals de
               <i>
-                <b className="blue"> musique </b>
+                <b className="blue"> musique</b>, 
               </i>
-              d'
+              <> </>d'
               <i>
                 <b className="blue">organiser </b>
               </i>
@@ -70,7 +70,7 @@ function Home2() {
               <i>
                 <b className="blue"> manager </b>
               </i>
-              des équipes et des projets,j'ai voulu m'orienter en 
+              des équipes et des projets, j'ai voulu m'orienter en 
               <i>
                 <b className="blue"> management </b>
               </i>
