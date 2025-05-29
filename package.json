@@ -46,11 +46,13 @@
       "last 1 safari version"
     ]
 
+
   },
   "devDependencies": {
     "postcss-color-hex-alpha": "^10.0.0",
     "postcss-color-rebeccapurple": "^10.0.0",
     "postcss-nesting": "^13.0.1"
+
 
   }
 }
