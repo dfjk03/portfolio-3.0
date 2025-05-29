@@ -1,6 +1,5 @@
 {
   "name": "portfolio",
-  "homepage": "https://dfjk03.github.io/portfolio-3.0/",
   "version": "0.3.0",
   "private": true,
   "dependencies": {
@@ -27,9 +26,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -50,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0",
     "postcss-color-hex-alpha": "^10.0.0",
     "postcss-color-rebeccapurple": "^10.0.0",
     "postcss-nesting": "^13.0.1"
