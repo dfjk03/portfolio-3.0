@@ -54,5 +54,6 @@
     "postcss-nesting": "^13.0.1"
 
 
-  }
+  },
+  "homepage": "."
 }
