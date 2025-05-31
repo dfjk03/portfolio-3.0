@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://celinely.netlify.app" target="_blank">Céline Ly</a>
+  <a href="" target="_blank">Céline Ly</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
