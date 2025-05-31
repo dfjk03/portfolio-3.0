@@ -52,8 +52,5 @@
     "postcss-color-hex-alpha": "^10.0.0",
     "postcss-color-rebeccapurple": "^10.0.0",
     "postcss-nesting": "^13.0.1"
-
-
-  },
-  "homepage": "https://dfjk03.github.io/portfolio-3.0/public/"
+  }
 }
